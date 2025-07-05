@@ -22,4 +22,4 @@ ConnectPLUS is a database management system designed to connect working professi
 
 - ER Diagram Design Tools
 
-- Data Modeling Concepts# ConnectPLUS
+- Data Modeling Concepts
